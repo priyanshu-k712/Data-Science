@@ -35,3 +35,7 @@ Machine Learning/.ipynb_checkpoints/Stratified_shuffle_split-checkpoint.ipynb
 .virtual_documents/Machine Learning/Visualizing_the_data.ipynb
 .virtual_documents/Machine Learning/Further_Visualizing_Data.ipynb
 np
+pipeline.pkl
+Machine Learning/input.csv
+Machine Learning/output_data
+model.pkl
