@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logotext{
+    font-size: 18;
+    font-weight: bolder;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content:left;
+    color: white;
+    background-color: black;
+    padding: 5px 30px;
+}
